@@ -31,6 +31,12 @@ Hexadecimal color input works:
 iconset ff6600
 ```
 
+Or:
+
+```bash
+iconset f60
+```
+
 RGB color input also works:
 
 ```bash
