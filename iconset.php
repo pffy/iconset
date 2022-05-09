@@ -258,7 +258,6 @@ function get_help_text() {
 Try these commands:
 
 `$ iconset icon.png`
-`$ iconset icon1.png icon2.png icon3.png`
 `$ iconset rgb-255-148-22`
 `$ iconset ff6633`
 `$ iconset f63`
