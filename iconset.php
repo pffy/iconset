@@ -109,7 +109,9 @@ function resize_icon_from_file($file) {
 }
 
 function check_image_dims($file) {
-  $arr = getimagesize($file)[0];
+
+  $arr = getimagesize($file);
+
   $w = $arr[0];
   $h = $arr[1];
 
